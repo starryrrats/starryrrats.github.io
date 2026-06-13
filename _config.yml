@@ -5,8 +5,7 @@ description: "Just a place to store some writings and thoughts." # This will sho
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "rattiusjr@mail.com"
-github_username: "starryrrats"
-discord_username: "mtpx3" 
+github_username: "starryrrats" 
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
@@ -17,7 +16,7 @@ discord_username: "mtpx3"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+theme: "just-the-docs"
 
 rss: rss
 
