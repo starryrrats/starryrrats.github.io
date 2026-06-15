@@ -4,7 +4,7 @@ I might start thinking of international friends and my night owls as ships.  Lik
 
 Current day, I haven't talked to those people in quite some time, and my current friend group has a better, convenient schedule.  Most of them I can talk to throughout the day, but it's maybe ironic that one of them is only 2 to 1 hours ahead of me, depending the time change, has become quite the night owl.  Man, I'm only 21, but I'm already reminiscing of my old days of staying up at all hours of the night.  I can't stay up at all hours of the night now.  Well, I could.  But that'd make me even more stressed at work.  I'm an old man with a job now.  Inevitable.
 
-Why must I be a boring adult with a day job?  I should've gotten a night job like my friend's ex did.  He used to stay up all night to talk to her.  Too bad I can't consistently do the same for him... 
+Why must I be a boring adult with a day job?  I should've gotten a night shift job like my boyfriend's ex did.  He used to stay up all night to talk to her.  Too bad I can't consistently do the same for him... 
 
 But I should count my blessings and be glad I do have other friends to occupy my time with.  
 
