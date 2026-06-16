@@ -1,6 +1,6 @@
 ---
 title: Semi-productive
-layout: post
+layout: page
 tags: thoughts, poetry
 ---
 
