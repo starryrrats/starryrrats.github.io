@@ -1,4 +1,8 @@
-## Ships in the Night
+---
+title: Ships in the Night 
+layout: post
+tags: thoughts
+---
 
 I might start thinking of international friends and my night owls as ships.  Like passing ships, our active times just don't align nicely.  I remember I used to have a friend from Pakistan.  He was nine hours ahead.  It sucked so much that we were rarely online at the same time, except in the early morning or late evening.  Eventually, I started staying awake just to yap to him, and some other friends who were across the giant ass pond.  It was great, to be honest.  Even though I deprived myself of sleep for the day and I had school, it didn't matter.  I gotta get some form of socialization in, you know?  That was years ago.
 
