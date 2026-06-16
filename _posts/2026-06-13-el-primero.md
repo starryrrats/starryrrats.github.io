@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El Primero
-tags: all, thoughts
+tags: thoughts
 ---
 
 On a sweltering day, the keys are pressed and a mouse is clicked.  "El primero..."  
