@@ -14,4 +14,4 @@ But I should count my blessings and be glad I do have other friends to occupy my
 
 Speaking of occupying my time, yeah, I should be working.  But holy hell, it's making me stressed.  There's literally no good reason that I should be feeling this stressed.  But I am and it's doing a number on my anxiety.  That doesn't bode well.  It was worse last week, and I thought it'd be okay this week, but evidently not?  I'm sure I've eaten enough and I should drink some water, but eek.  I might have a potential failure at work.  
 
-Realistically speaking, no, I won't fail.  It just feels like I will and I keep thinking that I've spent far too long on this problem that has an extremely easy solution.  :/  Thank god for music. It makes me 5% less anxious.  But the gloom and doom persists.  Just 6.5 hours left... - 10:28 EST, Rigel
+Realistically speaking, no, I won't fail.  It just feels like I will and I keep thinking that I've spent far too long on this problem that has an extremely easy solution.  :/  Thank god for music. It makes me 5% less anxious.  But the gloom and doom persists.  Just 6.5 hours left... - 10:29 EST, Rigel
