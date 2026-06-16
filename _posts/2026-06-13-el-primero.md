@@ -1,4 +1,8 @@
-## El primero
+---
+layout: post
+title: El Primero
+tags: all
+---
 
 On a sweltering day, the keys are pressed and a mouse is clicked.  "El primero..."  
 
