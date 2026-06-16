@@ -4,32 +4,30 @@ layout: page
 tags: poetry
 ---
 
-## Petulant Child
+Petulant Child, <br>
+You need to eat better. <br>
+Your homework needs done. <br>
+Why must you balk worse than a bull? 
 
-Petulant Child,
-You need to eat better.
-Your homework needs done.
-Why must you balk worse than a bull?
-
-You're better than
-Whatever this is...
-Enough with the stare.
+You're better than <br>
+Whatever this is... <br>
+Enough with the stare. <br>
 Please.
 
-You ask me why you should try
-You know, I know you know,
-You know and deny;
-You can't stop.
+You ask me why you should try <br>
+You know, I know you know, <br>
+You know and deny; <br>
+You can't stop. 
 
-I don't think I'll ever want a child,
-With you around,
-Tiring me with your challenges,
-Mocking me with your thoughts.
+I don't think I'll ever want a child, <br>
+With you around, <br>
+Tiring me with your challenges, <br>
+Mocking me with your thoughts.  
 
-You know why you need to try
-We know it's hard, but
-Shut up and do it.
-Stop with the arguing.
+You know why you need to try <br>
+We know it's hard, but <br>
+Shut up and do it. <br>
+Stop with the arguing. <br>
 
-We could've reached the moon
+We could've reached the moon <br> 
 If you were...
