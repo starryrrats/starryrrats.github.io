@@ -1,6 +1,6 @@
 ---
 title: Ships in the Night 
-layout: post
+layout: page
 tags: thoughts
 ---
 
