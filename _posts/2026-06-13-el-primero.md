@@ -1,6 +1,6 @@
 ---
 title: El Primero
-layout: page
+layout: post
 tags: thoughts
 ---
 
