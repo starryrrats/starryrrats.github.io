@@ -1,6 +1,6 @@
 ---
 title: Petulant Child
-layout: page
+layout: post
 tags: poetry
 ---
 
