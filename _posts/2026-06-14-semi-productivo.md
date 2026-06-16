@@ -39,4 +39,4 @@ If you were...
 ---
 Shoutout to !!New Game Start!! by Teikyou, which I found through DJMAX Respect.  I love the music video for the song so much.  It's also just super catchy :3 
 
-Nos vemos.  - 23:08 EST, Rigel
+Nos vemos.  - 23:09 EST, Rigel
