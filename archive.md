@@ -3,6 +3,10 @@ layout: page
 title: Archive
 ---
 
+<div>
+  Tags, people, tags.
+</div>
+
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
