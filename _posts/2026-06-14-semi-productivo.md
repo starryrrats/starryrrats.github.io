@@ -2,6 +2,7 @@
 title: Semi-productive
 layout: post
 tags: thoughts, poetry
+---
 
 I finally got around to getting rid of the gorbillón cardboard boxes in my room.  There were quite a few.  I already have enough boxes that I'm using for current storage and for when I move and the amount I had that were empty were kind of making my small room unwalkable, eheh... I hadn't flattened them but even so, there were seriously quite a few.  Literally filled up a garbage bag full of the cardboard bits.  I also made a grocery trip.  Hopefully I won't need to visit until July, but I doubt it.  Anyway, here's a spur-of-the-moment poem, which I intend to give its own post eventually: 
 
