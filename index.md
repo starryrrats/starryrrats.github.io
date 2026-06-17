@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: homepage
 ---
 Hey, welcome to the cluster, Rigel's (yours truly) humble abode.  There's not much for now.  The landing page will probably update when I think of more stuff.  But this is going to be a blog for, primarily, my poems and micro-stories.  I might also treat this like a semi-private journal.  Maybe I'll finally document the thoughts I have when I'm going down rabbit holes of South American dictatorships and the cabal of solar telescopes.  
 
