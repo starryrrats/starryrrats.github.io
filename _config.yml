@@ -30,11 +30,11 @@ plugins:
   - jekyll-sitemap
   
 feed:
-tags:
-  only:
-    - thoughts
-    - poetry
-    - microfiction
+  tags:
+    only:
+      - thoughts
+      - poetry
+      - microfiction
 
  
 
