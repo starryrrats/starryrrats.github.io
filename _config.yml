@@ -28,6 +28,14 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  
+feed:
+tags:
+  only:
+    - thoughts
+    - poetry
+    - microfiction
+
  
 
 titles_from_headings:
