@@ -1,5 +1,5 @@
 ---
-title:The Forest with a Thousand Souls
+title: The Forest with a Thousand Souls
 layout: post
 tags: microfiction
 ---
