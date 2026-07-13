@@ -14,6 +14,4 @@ I was so relieved to find that there's already a python library for Fluxer, and 
 
 To be honest, it's kind of fun making commands but I can't think of any useful ones for the bots.  Probably for the best.  Keep it simple, after all.  For a simple-ish breakdown, the bot parses the RSS feed that I set in the config file every so often.  Checks for new entries.  When there's a new entry, the bot sends a message to the channels it has access to (there are channel IDs it uses from the config file).  The message is formatted to include the title, my Discord/Fluxer user, link, and a preview. Then it creates a record in the database so it's not posted again. 
 
-Anyway, I probably made a bunch of typos.  I've spent too much brainpower to spot mistakes in my writing :(  There have been at least three tiny flies, house or fruit, not sure, flying around my desk...Sleep well or have a good day, whoever's reading this!  I'm so pleased with myself for finally getting my bot finished and surprisingly, getting a second one to work. 
-
-- 1:40 AM EST, Rigel
+Anyway, I probably made a bunch of typos.  I've spent too much brainpower to spot mistakes in my writing :(  There have been at least three tiny flies, house or fruit, not sure, flying around my desk...Sleep well or have a good day, whoever's reading this!  I'm so pleased with myself for finally getting my bot finished and surprisingly, getting a second one to work. - 1:40 AM EST, Rigel
