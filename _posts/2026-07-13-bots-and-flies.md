@@ -1,0 +1,19 @@
+---
+title: Bots and Flies
+layout: post
+tags:
+  - thoughts
+---
+When I first began this blog, there were two people that I really wanted to update about new posts, but I didn't want to constantly tell them.  They're both active on Discord, so I decided to look into making an RSS bot that does the notifying for me.  So, a month later, I finally got the RSS bot made.  Two bots, actually.  
+
+I had slowly been working on the RSS bot from June to now, by reading articles and finding guides.  For some reason I debated doing it in lua?  I really don't remember why other than, "Hey, remember you wanted to learn Lua?  Now you've got a perfect reason."  I ended up going with python though, because I found a guide for a barebones rss bot, https://hansimcklaus.iwr.sh/post/how-to-create-a-simple-rss-bot-for-discord/.  Then I got around to creating the discord bot.  My progress was quite inconsistent.  Part of the stalling was from scope creep and thinking it'd be a good idea to have separate feeds.  Imagine.  I was thinking, "Hey, if I was a reader, maybe I'd like to only be notified of specific content instead of everything." so I spent a few days looking up how to split my primary feed and make new XML feeds based on my tags. Finally, this weekend, I finally sat down and copied and pasted the code from the aforementioned article.
+
+It was relatively painless.  After the barebones bot, I figured it'd be good to have a command to resend the most recent article.  Guess who thought they were going to go to bed at 2 AM, then stayed up to almost 4 AM, telling someone about my bot, then implementing the `!sc help` command and almost finishing `!sc last post.`  Then Sunday, I had the bright idea of making an equivalent for Fluxer, which is a Discord clone, pretty much.  Some of my online friends were becoming more active on Fluxer so I figured why not.  
+
+I was so relieved to find that there's already a python library for Fluxer, and that setting up a bot had an identical process to Discord.  I spent my evening and night making a Fluxer RSS bot.  I started by copying my Discord bot python files, then tweaked the imports.  I had to import asyncio which I didn't need to with the Discord version.  After making the Fluxer bot, I realized I kind of screwed up the logic for the get_last_article().  Initially, I was just using the latest-added database record.  That'd be okay if I never ever made test posts.  But if you do make test posts, like I did, then `!sc last post` will resend the test post, regardless if it's been deleted from the RSS feed.  I don't know why it took me so long to realize I should've referenced the RSS feed instead of the database I created.  But at least, I figured that out sooner than later?
+
+To be honest, it's kind of fun making commands but I can't think of any useful ones for the bots.  Probably for the best.  Keep it simple, after all.  For a simple-ish breakdown, the bot parses the RSS feed that I set in the config file every so often.  Checks for new entries.  When there's a new entry, the bot sends a message to the channels it has access to (there are channel IDs it uses from the config file).  The message is formatted to include the title, my Discord/Fluxer user, link, and a preview. Then it creates a record in the database so it's not posted again. 
+
+Anyway, I probably made a bunch of typos.  I've spent too much brainpower to spot mistakes in my writing :(  There have been at least three tiny flies, house or fruit, not sure, flying around my desk...Sleep well or have a good day, whoever's reading this!  I'm so pleased with myself for finally getting my bot finished and surprisingly, getting a second one to work. 
+
+-1:40 AM EST, Rigel
