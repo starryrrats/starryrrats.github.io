@@ -14,7 +14,4 @@ Regarding the FIFA World Cup, it sounds so bizarre that the World Cup Final will
 
 Also, I hope the fugly orange stays far, far, far away from the World Cup Final.  I don't want his presence to be even in a neighboring state.  He should go on a convenient (for me) trip out of the country.  We do not need Argentina's win streak to be broken by that thing attending the final match.  It's now 1ish and I think I'll go to bed.
 
-También, aprendí una palabra nueva: yeta.  Es lunfardo (jerga de B.A.) que significa mala suerte.  Mi novio me respondió 'yeta' cuando estaba quejando a él sobre la mierda naranja.  Hasta la próxima.
-
-
--1:17 AM EST, Rigel
+También, aprendí una palabra nueva: yeta.  Es lunfardo (jerga de B.A.) que significa mala suerte.  Mi novio me respondió 'yeta' cuando estaba quejando a él sobre la mierda naranja.  Hasta la próxima. - 1:17 AM EST, Rigel
