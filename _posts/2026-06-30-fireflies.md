@@ -1,6 +1,7 @@
 ---
 title: No Fireflies
 layout: post
+date: 2026-07-30 09:30:00 -0500
 tags:
   - thoughts
 ---
