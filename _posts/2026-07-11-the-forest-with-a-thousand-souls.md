@@ -1,6 +1,7 @@
 ---
 title: The Forest with a Thousand Souls
 layout: post
+date: 2026-07-11 12:00:00 -0500
 tags: microfiction
 ---
 
