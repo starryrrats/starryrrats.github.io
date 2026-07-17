@@ -1,7 +1,7 @@
 ---
 title: Vamos Argentina!!
 layout: post
-date: 2026-07-12 01:13:00 -0500
+date: 2026-07-12 01:17:00 -0500
 tags:
   - thoughts
 ---
