@@ -4,7 +4,7 @@ layout: post
 tags:
   - thoughts
 ---
-I saw most of the semifinal match which is Argentina vs England and holy shit there was so much falling.  It's only my like fifth or so football match I've seen, but I didn't recall seeing nearly as many guys on the ground like I did with this match. There were 7 fouls for ENG and 12 for Argentina by half time.  I asked my boyfriend what the average amount of fouls were and he said that there’s less but also there a million fouls that weren’t called out. 
+I saw most of the semifinal match which was Argentina vs England and holy shit there was so much falling.  It's only my fifth or so football match I've seen, but I didn't recall seeing nearly as many guys on the ground like I did with this match. There were 7 fouls for ENG and 12 for Argentina by half time.  I asked my boyfriend what the average amount of fouls were and he said that there’s less but also there were a million fouls that weren’t called out. 
 
 Aaaaand England scored.  But hey, for the rest of the game, apparently their only tactic was to park the bus.  Parking the bus, in case you didn’t know like me, is when you play super defensively, typically after making a leading goal.  It was 1-0 until minute 85.  Then there was a great strike by Fernández, assisted by Messi. Then the second goal was amazing to watch, too. Messi assisted the second goal, by kicking the ball to Martinez who used his head to knock it into the net.
 
