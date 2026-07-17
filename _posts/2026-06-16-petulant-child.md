@@ -1,6 +1,7 @@
 ---
 title: Petulant Child
 layout: post
+date: 2026-06-16 19:00:00 -0500
 tags: poetry
 ---
 
