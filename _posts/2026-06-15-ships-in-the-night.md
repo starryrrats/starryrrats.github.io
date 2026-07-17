@@ -1,7 +1,7 @@
 ---
 title: Ships in the Night 
 layout: post
-date: 2026-06-15 10:39:00 -0500
+date: 2026-06-15 10:40:00 -0500
 tags: thoughts
 ---
 
