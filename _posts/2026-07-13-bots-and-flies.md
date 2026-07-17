@@ -1,6 +1,7 @@
 ---
 title: Bots and Flies
 layout: post
+date: 2026-07-13 01:40:00 -0500
 tags:
   - thoughts
 ---
