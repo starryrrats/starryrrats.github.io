@@ -1,6 +1,7 @@
 ---
 title: Semi-productive
 layout: post
+date: 2026-06-14 23:00:00 -0500
 tags: thoughts poetry
 ---
 
