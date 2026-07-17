@@ -1,6 +1,7 @@
 ---
 title: Not Sorry, Inglaterra
 layout: post
+date: 2026-07-16 23:00:00 -0500
 tags:
   - thoughts
 ---
