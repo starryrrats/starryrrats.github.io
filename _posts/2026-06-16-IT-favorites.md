@@ -1,6 +1,7 @@
 ---
 title: IT Favorites
 layout: post
+date: 2026-06-16 13:00:00 -0500
 tags: thoughts
 ---
 I’ve been at my current job, doing lowly IT support for four years now.  It’s a strange feeling to know people will prefer me over coworkers.  I always felt a sense of invisibility, to an extent, at work, and always think that nobody really knows or cares who I am, besides my immediate peers.  I’m not complaining; it’s nice that I don’t usually have a whole lot of work and people aren’t always coming to me for help.  Whenever someone stops by the IT office, they’re usually searching for my coworkers or my boss or my manager.  Rarely is it me.  I don’t do any specialized work so I’m very replaceable and I’m always feeling like I’ll be replaced at any time.  I think that contributes to my perception of myself as a “fly on the wall” at work.
