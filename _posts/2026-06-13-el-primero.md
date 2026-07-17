@@ -1,6 +1,7 @@
 ---
 title: El Primero
 layout: post
+date: 2026-06-13 23:00:00 -0500
 tags: thoughts
 ---
 
