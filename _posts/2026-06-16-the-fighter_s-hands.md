@@ -1,6 +1,7 @@
 ---
 title: The Fighter's Hands
 layout: post
+date: 2026-06-16 20:00:00 -0500
 tags: poetry
 ---
 
